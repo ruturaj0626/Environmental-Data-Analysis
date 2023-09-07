@@ -1,5 +1,6 @@
 # Environmental-Data-Analysis
 
+![Cover](https://github.com/ruturaj0626/Environmental-Data-Analysis/blob/main/Environmental%20Data%20Analysis.png)
 ## Project Overview
 
 The ability to accurately monitor carbon emissions is a critical step in the global fight against climate change. Precise carbon readings provide invaluable insights for researchers and governments, helping them understand the sources and patterns of carbon mass output. While Europe and North America have well-established systems for monitoring carbon emissions, the same infrastructure is often lacking in many parts of Africa.
